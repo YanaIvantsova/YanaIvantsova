@@ -46,6 +46,7 @@
 | ------------- |:-------------------------------------:| :-----------------------:|
 | Coffee-house    | <img width="100"  alt="image" src="https://github.com/YanaIvantsova/YanaIvantsova/assets/100282525/8d29c6d7-b7d3-4c79-b81d-2eacb6934328">| [Coffee-house](https://rolling-scopes-school.github.io/yanaivantsova-JSFE2023Q4/coffee-house/) |
 | CSS-bayan    | <img width="100" alt="image" src="https://github.com/YanaIvantsova/YanaIvantsova/assets/100282525/f2fb940a-5866-4f4c-a35c-a73b131397a9"> |   [CSS-bayan](https://yanaivantsova.github.io/cssBayan/cssBayan/index.html)|
-
+| Nonograms    | <img width="100" alt="image" src="https://github.com/YanaIvantsova/YanaIvantsova/assets/100282525/e37c3913-3458-42f2-b643-799af4793716"> |   [Nonograms](https://yanaivantsova.github.io/cssBayan/cssBayan/index.html)|
+| Hangman    | <img width="100" alt="image" src="https://github.com/YanaIvantsova/YanaIvantsova/assets/100282525/9a4e2b8a-c8d4-4af1-98b0-265a52c2dbb8"> |   [Hangman](https://yanaivantsova.github.io/cssBayan/cssBayan/index.html)|
 
 </div>
